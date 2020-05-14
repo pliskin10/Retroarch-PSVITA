@@ -2,7 +2,7 @@
 Instalar y utilizar Retroarch en una Playstation VITA
 
 Requísitos Previos
-- PSVITA con Henkaku o H-Encore instalado y funcionando
+- PSVITA con Henkaku o H-Encore instalado y funcionando - https://vita.hacks.guide
 - app Vitashell by TheFlow para VITA - https://github.com/TheOfficialFloW/VitaShell/releases
 - app Retroarch para VITA - https://docs.libretro.com/guides/install-psv
 - data pack de Retroarch - http://buildbot.libretro.com/stable/1.7.9/playstation/vita/RetroArch_data.7z
