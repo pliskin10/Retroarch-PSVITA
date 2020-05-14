@@ -1,0 +1,60 @@
+# Listado de cores para Retroarch (v1.8.6) 
+*en cursiva los que personalmente utilizo y/o probado*
+
+- 81_libretro.self - EightyOne 1.0a, Sinclair ZX81
+- 2048_libretro.self - 2048 player
+- atari800_libretro.self -Atari800, Atari 8-bits platform [400/800(XL), 5200]
+- dosbox_libretro.self - DOSbox 0.74, MS-DOS Emulator
+- easyrpg_libretro.self - EasyRPG Player, RPGMaker 2000/2003 Game Player
+- ecwolf_libretro.self - ECWolf, Wolfenstein 3D[+ Spear of Destiny]
+- fbalpha_libretro.self - FB Alpha v0.2.97.44, Arcade Machine Emulator [Various]
+- fbalpha2012_libretro.self - FB Alpha 2012 v0.2.97.29, Arcade Machine Emulator [Various]
+- fbalpha2012_cps1_libretro.self - FB Alpha 2012 CPS1 v0.2.97.28, Capcom Play System [CPS1]
+- fbalpha2012_cps2_libretro.self - FB Alpha 2012 CPS2 v0.2.97.28, Capcom Play System II [CPS2]
+- fbalpha2012_neo_libretro.self - FB Alpha 2012 NeoGeo v0.2.97.29, SNK Neo-Geo AES/MVS
+- *fbneo_libretro.self - FB Neo, Arcade Machine Emulator [Various] (Replaces complete FinalBurnAlpha)*
+- fceumm_libretro.self - FCEUmm, Nintendo Entertainment System [+ FDS]
+- fmsx_libretro.self - fMSX, MSX 1/2 Emulator
+- freeint_libretro.self - FreeIntv, Mattel Intellivision
+- fuse_libretro.self - Fuse, ZX Spectrum
+- *gambatte_libretro.self - Gambatte, Game Boy [+ Color]*
+- *gearboy_libretro.self - Gearboy, Game Boy [+ Color]*
+- *genesis_plus_gx_libretro.self - Genesis Plus GX, Sega Genesis/Mega Drive [+ Sega CD & Sega Master System & Sega Game Gear]*
+- *gpsp_libretro.self - gpSP, Game Boy Advance [GBA]*
+- gw_libretro.self - Game & Watch, G&W Game Player
+- handy_libretro.self - Handy, Atari Lynx
+- hatari_libretro.self - Hatari, Atari ST [+ E + Falcon] Computers Family
+- *mame2000_libretro.self - MAME 0.37b5, Multiple Arcade Machine Emulator (Smallest ROMset, best performance)*
+- mame2003_libretro.self - MAME 0.72, Multiple Arcade Machine Emulator (Bigger ROMset, less stable performance)
+- *mame2003_plus_libretro.self - MAME 0.72+, Multiple Arcade Machine Emulator (Biggest ROMset, less stable performance)*
+- *mednafen_ngp_libretro.self - MednaFen NeoPop, Neo-Geo Pocket [+ Color] (High Accuracy)*
+- *mednafen_pce_fast_libretro.self - MednaFen PCE Fast, PC-Engine/TurboGrafx-16 [+ CD Super System]*
+- *mednafen_supergrafx_libretro.self - MednaFen SuperGrafx, PC-Engine SuperGrafx & TurboGrafx-16 [+ CD Super System]*
+- mednafen_vb_libretro.self - MednaFen VB, Virtual Boy
+- *mednafen_wswan_libretro.self - MednaFen WonderSwan, Bandai WonderSwan [+ Color]*
+- mu_libretro.self - Mu, Palm Devices emulator
+- neocd_libretro.self - NeoCD, Neo-Geo CD[Z]
+- *nestopia_libretro.self - Nestopia, Nintendo Entertainment System [NES + FDS] (Cycle-Accurate, highest accuracy)*
+- np2kai_libretro.self - Neko Project II Kai, NEC PC9801/9821
+- *nxengine_libretro.self - NXEngine, Cave Story/Doukutsu Monogatari Player*
+- *pcsx_rearmed_libretro.self - PCSX ReARMed, PlayStation 1*
+- *picodrive_libretro.self - PicoDrive, Sega Genesis/Mega Drive [+ Sega CD & Sega 32X]*
+- puae_libretro.self - PUAE, Commodore Amiga A500/1200
+- pokemini_libretro.self - Pokemon Mini Emulator
+- *prboom_libretro.self - PrBoom, Doom Engine*
+- prosystem_libretro.self - ProSystem, Atari 7800
+- quasi88_libretro.self- Quasi88, NEC PC8801
+- quicknes_libretro.self - QuickNES, Nintendo Entertainment System [NES] (Low Accuracy)
+- race_libretro.self - RACE, Neo-Geo Pocket [+ Color] (Low Accuracy)
+- snes9x2002_libretro.self - Snes9X 2002, Super Nintendo [SNES] (Lowest Accuracy)
+- *snes9x2005_libretro.self - Snes9x 2005, Super Nintendo [SNES] (Mid Accuracy)*
+- *snes9x2005_plus_libretro.self - Snes9x 2005 Plus, Super Nintendo [SNES] (Mid Accuracy + More Accurate Sound)*
+- snes9x2010_libretro.self - Snes9x 2010, Super Nintendo [SNES] (Highest Accuracy, SLOW!)
+- stella2014_libretro.self - Stella 2014, Atari 2600 [VCS] (Less Accurate)
+- stella_libretro.self - Stella, Atari 2600 [VCS] (Most Accurate)
+- tgbdual_libretro.self - TGB Dual, Game Boy [+ Color] (Supports Link Cable)
+- tyrquake_libretro.self - TyrQuake, Quake Engine Player
+- *vba_next_libretro.self - VBA Next, Game Boy Advance*
+- vecx_libretro.self - VecX, GCE/MB Vectrex
+- vice_x64_libretro.self - VICE x64, Commodore 64
+- yabause_libretro.self - Yabause, Sega Saturn
