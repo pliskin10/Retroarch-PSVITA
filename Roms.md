@@ -36,7 +36,7 @@ por ejemplo, quedando una estructura parecido a esto:
  
  - procederá a descargar las carátulas de nuestra playlist, así que sed pacientes aquí pues se demora un poco.
  
- Debería quedar así http://www.lakka.tv/doc/images/thumbnails.png
+ - el resultado, debería quedar algo así http://www.lakka.tv/doc/images/thumbnails.png
  
  * NOTA *
 existe un método para hacer este proceso de manera "manual" descargando los thumbnails desde nuestro PC y copiarlos mediante Vitashell a la carpeta Retroarch, no es la manera más recomendable, pero aquí hay más info al respecto - https://docs.libretro.com/guides/roms-playlists-thumbnails - y aquí están los "packs" con las carátulas - http://thumbnailpacks.libretro.com
