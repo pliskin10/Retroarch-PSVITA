@@ -1,4 +1,4 @@
-# Retroarch Playlist y Roms
+# Roms y Playlist
 
 Una vez nuestro Retroarch instlado y listo para usar en nuestra PS Vita, nos interesa crear nuestras playlist para una mejor gestión del contenido de nuestras ROMS.
 
@@ -28,7 +28,7 @@ por ejemplo, quedando una estructura parecido a esto:
  
  - una vez creada la Playlist de nuestro sistema, nos aparecerá en el menú principal de Retroarch, ahora podemos añadir las carátulas.
  
- # Añadir carátulas a las playlist
+ # Carátulas en las playlist
  
  - para ello basta con seleccionar la opción del menú de Retroarch, "Online Updater"
  
@@ -36,4 +36,7 @@ por ejemplo, quedando una estructura parecido a esto:
  
  - procederá a descargar las carátulas de nuestra playlist, así que sed pacientes aquí pues se demora un poco.
  
- - existe un método para hacer este proceso de manera "manual" descargando los thumbnails desde nuestro PC y copiarlos mediante Vitashell a la carpeta Retroarch, no es la manera más recomendable, pero aquí hay más info al respecto - https://docs.libretro.com/guides/roms-playlists-thumbnails - y aquí están los "packs" con las carátulas - http://thumbnailpacks.libretro.com
+ Debería quedar así http://www.lakka.tv/doc/images/thumbnails.png
+ 
+ * NOTA *
+existe un método para hacer este proceso de manera "manual" descargando los thumbnails desde nuestro PC y copiarlos mediante Vitashell a la carpeta Retroarch, no es la manera más recomendable, pero aquí hay más info al respecto - https://docs.libretro.com/guides/roms-playlists-thumbnails - y aquí están los "packs" con las carátulas - http://thumbnailpacks.libretro.com
