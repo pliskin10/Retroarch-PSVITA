@@ -26,3 +26,14 @@ por ejemplo, quedando una estructura parecido a esto:
  - debemos tener en cuenta que Retroarch basa su base de datos en los romsets de no-intro (https://archive.org/search.php?query=no-intro%20romset)
  por lo que si no encuentra el nombre de la rom en su base de datos puede que no nos aparezca en la importación.
  
+ - una vez creada la Playlist de nuestro sistema, nos aparecerá en el menú principal de Retroarch, ahora podemos añadir las carátulas.
+ 
+ # Añadir carátulas a las playlist
+ 
+ - para ello basta con seleccionar la opción del menú de Retroarch, "Online Updater"
+ 
+ - escogemos la opción "Thumbnails Updater" y escogemos la plataforma a descargar (debemos tener conexión a internet para ello en la PS Vita.
+ 
+ - procederá a descargar las carátulas de nuestra playlist, así que sed pacientes aquí pues se demora un poco.
+ 
+ - existe un método para hacer este proceso de manera "manual" descargando los thumbnails desde nuestro PC y copiarlos mediante Vitashell a la carpeta Retroarch, no es la manera más recomendable, pero aquí hay más info al respecto - https://docs.libretro.com/guides/roms-playlists-thumbnails - y aquí están los "packs" con las carátulas - http://thumbnailpacks.libretro.com
