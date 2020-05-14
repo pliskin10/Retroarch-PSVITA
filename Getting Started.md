@@ -1,4 +1,4 @@
-# Retroarch-on-PSVITA
+# Retroarch en PS VITA
 Instalar y utilizar Retroarch en una Playstation VITA
 
 Requísitos Previos
