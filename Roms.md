@@ -1,4 +1,4 @@
-# Roms y Playlist
+# Roms y Playlists
 
 Una vez nuestro Retroarch instlado y listo para usar en nuestra PS Vita, nos interesa crear nuestras playlist para una mejor gestión del contenido de nuestras ROMS.
 
@@ -28,7 +28,7 @@ por ejemplo, quedando una estructura parecido a esto:
  
  - una vez creada la Playlist de nuestro sistema, nos aparecerá en el menú principal de Retroarch, ahora podemos añadir las carátulas.
  
- # Carátulas en las playlist
+ # Carátulas en las Playlists
  
  - para ello basta con seleccionar la opción del menú de Retroarch, "Online Updater"
  
